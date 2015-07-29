@@ -1,0 +1,43 @@
+header{
+	background-image: url("../img/bg.png");
+	background-repeat: repeat;
+	height:800px;
+}
+
+.title{
+	height:26px;
+	width:240px;
+	background-color:#4f4f4f;
+	color:#ffffff;
+	padding-top:4px;
+	margin-left:150px;
+	margin-top:60px;
+	border:1px #4f4f4f solid;
+	border-radius:4px;
+	font-size:18px;
+	font-weight:bold;
+	font-family:Calibri;
+	
+}
+
+.title > img{
+	opacity:1;
+	margin-left:4px;
+
+}
+
+.title:hover{
+	cursor:pointer;
+}
+
+.main{
+	margin-left:143px;
+	width:800px;
+	margin-top:20px;
+}
+
+.gallery-frame{
+	height:450px;
+	width:800px;
+	border:0px;
+}

@@ -1,0 +1,52 @@
+header{
+	background-image: url("../img/bg.png");
+	background-repeat: repeat;
+	height:800px;
+}
+
+.main{
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	border-top:1px #808080 solid;
+	border-bottom:1px #808080 solid;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.contact-form{
+	margin-left:10px;
+}
+
+
+.contact-required-field{
+	color:#f94444;
+	font-family:Calibri;	
+}
+
+#mesage{
+	width:380px;
+}
+
+#submit{
+	width:100px;
+	height:29px;
+	border:0px #636363 solid;
+	border-radius:3px;
+	background-color: #636363;
+	color: #ffffff;
+	font-weight:bold;
+	font-family:Calibri;
+	padding-top:2px;
+	padding-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+#submit:hover{
+	cursor:pointer;
+}
+
+
