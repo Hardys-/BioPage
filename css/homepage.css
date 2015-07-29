@@ -36,12 +36,12 @@ span.profile:hover { opacity:0.8; cursor:pointer; }
 
 div.profilePic img{
 	position: absolute;
-	left:20px;
-	box-shadow: 0.7em 0.5em 0.3em rgba(0, 0, 0, 0.5);
+	left:4%;
+	box-shadow: 0.3em 0.2em 0.3em rgba(0, 0, 0, 0.5);
 	opacity:0.95;
 }
 
-div.profilePicimg :before {
+div.profilePic img :before {
 	  border-color: transparent #e1e1e1 transparent transparent;
 	  border-right: 6px solid #e1e1e1;
 	  border-style: solid;

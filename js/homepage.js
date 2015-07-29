@@ -52,7 +52,7 @@ $( document ).ready(function() {
 
 
 	$("span.profile").hover(function () {
-    		$(this).append('<div class="profilePic"><img src="../haohu_project/img/profile.jpg" alt="Profile Picture"/></div>');
+    		$(this).append('<div class="profilePic"><img src="../hao_hu_601termproject/img/profile.jpg" alt="Profile Picture"/></div>');
 		}, function () {
    			$("div.profilePic").remove();
  	 	})
