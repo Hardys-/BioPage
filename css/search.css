@@ -33,3 +33,8 @@ header{
 	cursor:pointer;
 }
 
+
+.search-result{
+	display:none;
+	margin-left:4%;
+}

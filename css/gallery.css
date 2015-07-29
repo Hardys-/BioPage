@@ -7,7 +7,7 @@ header{
 .title{
 	height:26px;
 	width:240px;
-	background-color:#4f4f4f;
+	background-color:#636363;
 	color:#ffffff;
 	padding-top:4px;
 	margin-left:150px;
@@ -15,7 +15,7 @@ header{
 	border:1px #4f4f4f solid;
 	border-radius:4px;
 	font-size:18px;
-	font-weight:bold;
+	
 	font-family:Calibri;
 	
 }

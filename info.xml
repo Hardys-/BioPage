@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="info.xsl"?>
+<information>
+  <record>
+    <name>learn.bu.edu</name>
+    <explanation>Blackboard Learn is the newest learning management system at Boston University; it is used in on- and off-campus courses, certificate programs, and clerkships.In this class, I quoted the textbook and materials on learn.bu.edu</explanation>
+    <category>
+	    <tag1>HTML</tag1>
+	    <tag2>JavaScript</tag2>
+	    <tag3>CSS</tag3>
+    </category>
+    <URL>http://learn.bu.edu</URL>
+  </record>
+  <record>
+    <name>W3Schools</name>
+    <explanation>W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. I test most code in the "Try it yourself section"</explanation>
+    <category>
+	    <tag1>JQuery</tag1>
+	    <tag2>JavaScript</tag2>
+	    <tag3>XML</tag3>
+    </category>
+    <URL>http://www.w3schools.com/</URL>
+  </record>
+    <record>
+    <name>JQuery.com</name>
+    <explanation>jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. I followed the definition of JQuery APIs here</explanation>
+    <category>
+	    <tag1>JQuery</tag1>
+	    <tag2>JQuery UI</tag2>
+    </category>
+    <URL>http://www.jquery.com</URL>
+  </record>
+  <record>
+    <name>Stackoverflow</name>
+    <explanation>Stack Overflow is a question and answer site for professional and enthusiast programmers. I searched this website for troubleshooting.</explanation>
+    <category>
+	    <tag1>Trouble</tag1>
+	    <tag2>Animation</tag2>
+    </category>
+    <URL>http://www.stackoverflow.com</URL>
+  </record>
+</information>
