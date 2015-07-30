@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<information>
+	<record>
+		<firstname>Hao</firstname>
+		<lastname>Hu</lastname>
+		<email>haohu@bu.edu</email>
+		<message>This is a test message, the first comment of this contact forum.</message>	
+	</record> 
+	<record>
+		<firstname>Admin</firstname>
+		<lastname>Foo</lastname>
+		<email>foo@bu.edu</email>
+		<message>This page use AJAX to automatically reload information from external data, and display it here on this screen.</message>
+	</record>
+	<record>
+		<firstname>whateverIWant</firstname>
+		<lastname>IsAwesome</lastname>
+		<email>siber@gmail.com</email>
+		<message>This website is awesome I done by only 3 days!</message>
+	</record>
+	<record>
+		<firstname>Jim</firstname>
+		<lastname>Boynton</lastname>
+		<email>JB@SB.com</email>
+		<message>I am a jerk, I will bankrupt in a few days!!!</message>
+	</record>
+</information>

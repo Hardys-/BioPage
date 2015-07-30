@@ -3,7 +3,7 @@
 	var numberOfImages = 6;
 	window.setInterval(function() {
 		$('header').fadeTo(700, 0.7, function() {
-		$(this).css('background-image','url(../haohu_project/img/' + curImgId + '.png)').fadeTo(300, 1);
+		$(this).css('background-image','url(../hao_hu_601termproject/img/' + curImgId + '.png)').fadeTo(300, 1);
 		});
 	curImgId = (curImgId + 1)% numberOfImages;
 	}, 5 * 4000);}

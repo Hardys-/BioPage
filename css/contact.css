@@ -50,3 +50,22 @@ header{
 }
 
 
+#form-messages{
+	font-family:Calibri;
+	color:#868686;
+	margin-left:4%;
+	margin-top:50px;
+	
+}
+
+#myDiv{
+	margin-top:20px;
+	margin-left:4%;
+	color:#868686;
+	font-family:Calibri;
+}
+
+.mestitle{
+	font-style: italic;
+	margin-bottom:0px;
+}

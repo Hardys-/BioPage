@@ -24,14 +24,17 @@
                 </ul>
 	</div>
 	<div class="main">
-		<form class="contact-form" id="contact-form" action="" method="post" onSubmit="return infoCheck(this)">
+		<form class="contact-form" id="contact-form" action="submit.php" method="post" onSubmit="return infoCheck(this)">
 			<input type="text" name="firstName" id="firstName" placeholder="  first name"><b class="contact-required-field">*</b><br><br>
 			<input type="text" name="lastName" id="lastName"  placeholder="  last name"><b class="contact-required-field">*</b><br><br>
 			<input type="email" name="email" id="email" placeholder="  youremail@example.com"><b class="contact-required-field">*</b><br><br>
 			<textarea rows="5" cols="50" name="message" id="message" placeholder=" Please leave a message for me, thanks!"></textarea><br><br>
 			<input type="submit"  name="submitButton" id="submit" value="Submit">
 		</form>
+		
 	</div>
+	<div id="form-messages"></div>
+	<div id="myDiv"></div>
 </header>
 
 
