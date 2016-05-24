@@ -26,7 +26,6 @@ $( document ).ready(function() {
 			"width":"+=5px",
 			"height":"+=3px",
 			},'swing');
-
     		},function(){
         		$(this).stop().animate({
             		opacity:"1"
@@ -36,7 +35,10 @@ $( document ).ready(function() {
 			"width":"-=5px",
 			"height":"-=3px",
 			},'swing');
-
+		$(this).css({
+			"width": "317px",
+			"height": "31px",
+			});
     	});
 
 	
