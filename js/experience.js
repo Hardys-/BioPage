@@ -7,7 +7,8 @@ $( document ).ready(function() {
 			$( this ).stop().animate({height:"+=15px",width:"+=12px",opacity:'0.8',"margin-left":"-=6px"},'slow');
 		}
 		,function(){
-			$( this ).stop().animate({height:"-=15px",width:"-=12px",opacity:'1',"margin-left":"+=6px"},"swing");	
+			$( this ).stop().animate({height:"-=15px",width:"-=12px",opacity:'1',"margin-left":"+=6px"},"swing");
+			$( this ).css({ "width": "150px", "height": "124px"});
 	});
        
 	if($(window).height() < 600){$("header").css({"height":600+'px'});};
