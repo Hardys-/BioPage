@@ -37,7 +37,7 @@ $( document ).ready(function() {
 			},'swing');
 		$(this).css({
 			"width": "317px",
-			"height": "31px",
+			"height": "31px"
 			});
     	});
 
